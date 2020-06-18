@@ -1,4 +1,4 @@
-// Arithmetic.cpp : This program takes two numbers from user and calculates and displays the sum, product, difference and quotient of the two numbers.
+// Arithmetic.cpp : This program takes two numbers from user then calculates and displays the sum, product, difference and quotient of the two numbers.
 
 #include <iostream>
 using namespace std;
