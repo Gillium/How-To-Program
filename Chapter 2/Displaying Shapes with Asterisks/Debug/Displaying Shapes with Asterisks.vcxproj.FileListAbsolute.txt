@@ -1,0 +1,2 @@
+D:\VS Projects\C++ How to Program Projects\How-To-Program\Chapter 2\Displaying Shapes with Asterisks\Debug\Displaying Shapes with Asterisks.exe
+D:\VS Projects\C++ How to Program Projects\How-To-Program\Chapter 2\Displaying Shapes with Asterisks\Debug\Displaying Shapes with Asterisks.pdb
