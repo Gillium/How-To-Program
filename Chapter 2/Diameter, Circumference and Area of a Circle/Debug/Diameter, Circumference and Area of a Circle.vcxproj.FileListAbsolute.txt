@@ -1,0 +1,2 @@
+D:\VS Projects\C++ How to Program Projects\How-To-Program\Chapter 2\Diameter, Circumference and Area of a Circle\Debug\Diameter, Circumference and Area of a Circle.exe
+D:\VS Projects\C++ How to Program Projects\How-To-Program\Chapter 2\Diameter, Circumference and Area of a Circle\Debug\Diameter, Circumference and Area of a Circle.pdb
