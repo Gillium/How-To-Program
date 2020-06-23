@@ -1,0 +1,2 @@
+D:\VS Projects\C++ How to Program Projects\How-To-Program\Chapter 2\Body Mass Index Calculator\Debug\Body Mass Index Calculator.exe
+D:\VS Projects\C++ How to Program Projects\How-To-Program\Chapter 2\Body Mass Index Calculator\Debug\Body Mass Index Calculator.pdb
