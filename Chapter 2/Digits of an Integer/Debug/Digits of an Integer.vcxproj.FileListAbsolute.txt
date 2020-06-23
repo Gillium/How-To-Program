@@ -1,0 +1,2 @@
+D:\VS Projects\C++ How to Program Projects\How-To-Program\Chapter 2\Digits of an Integer\Debug\Digits of an Integer.exe
+D:\VS Projects\C++ How to Program Projects\How-To-Program\Chapter 2\Digits of an Integer\Debug\Digits of an Integer.pdb
