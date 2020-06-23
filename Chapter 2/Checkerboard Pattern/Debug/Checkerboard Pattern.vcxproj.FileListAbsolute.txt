@@ -1,0 +1,2 @@
+D:\VS Projects\C++ How to Program Projects\How-To-Program\Chapter 2\Checkerboard Pattern\Debug\Checkerboard Pattern.exe
+D:\VS Projects\C++ How to Program Projects\How-To-Program\Chapter 2\Checkerboard Pattern\Debug\Checkerboard Pattern.pdb
